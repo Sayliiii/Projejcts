@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* Greeting CSS */
+.greeting {
+  background-color: Pink;
+}
+/* Date and time CSS */
+.styling {
+  color: red;
+}
